@@ -1,2 +1,2 @@
-<h1> knurze opasly </h1>
+<h1> KURWY NA DZWIGU </h1>
 
