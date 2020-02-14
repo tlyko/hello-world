@@ -1,2 +1,2 @@
-<h1> I tak to właśnie jest </h1>
+<h1> I tak to wlasnie jest </h1>
 
