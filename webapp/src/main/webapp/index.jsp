@@ -1,2 +1,2 @@
-<h1> knurze opasla </h1>
+<h1> knurze opasly </h1>
 
