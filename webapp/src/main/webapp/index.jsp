@@ -1,3 +1,3 @@
-<h1> KURWY NA DZWIGU </h1>
-<h2> tak to wlasnie jest </h2>
+<h1> Hello world </h1>
+<h2> version 1.0 </h2>
 
